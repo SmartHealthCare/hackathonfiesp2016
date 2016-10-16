@@ -1,35 +1,30 @@
-# Introdução
+# Hackathon FIESP 2016
+http://hotsite.fiesp.com.br/hackathon/
+
+## Introdução
 
 De todas as idéias criativas trazidas ao nosso mundo através da Internet das Coisas, a área de saúde é uma das que pode aproveitar muito desses recursos para inovar, aprimorar e salvar mais vidas.
 
 Ao equipar hospitais e equipamentos com essa tecnologia, é possível gerar inteligência dos dados gerados e dar mais confiança aos tratamentos, através de wearables, é possível centralizar monitoramentos de pacientes críticos. Essa nova gama de recursos resultará sem dúvidas em um atendimento mais eficiente e cada vez mais barato.
 
-
-
-Problema Proposto
+## Problema Proposto
 
 Em um pronto atendimento, a espera para ser atendido pelo médico sem saber quando vai chegar a vez do atendimento e sem prévia traz insatisfação e em alguns casos, até agrava a situação clínica dos pacientes.
 
 Ao chegar, o paciente faz um cadastro e questiona diversas vezes o tempo de atendimento. Se o paciente tivesse uma estimativa real do tempo de espera ele poderia até mesmo sair do Hospital e retornar mais tarde ou ir até o hospital somente próximo ao momento que possa ser atendido.
 
-
-
-Proposta de Valor / Atividades Chave
+## Proposta de Valor / Atividades Chave
 Agilizar o atendimentos em Hospitais e, auxiliar na classificação correta de atendimentos emergenciais em Pronto Socorro;
 
 Redução de risco por contaminação na sala de espera;
 
 Melhoria gradativa da qualidade do atendimento através de inteligência cognitiva.
 
-
-
-Parceiros
+## Parceiros
 
 Hospitais, Planos de Saúde, Sistema de Saúde Pública;
 
-
-
-Requisitos Funcionais
+## Requisitos Funcionais
 Será criado um aplicativo onde o usuário poderá visualizar os hospitais próximos e a previsão do tempo de espera pela especialidade.
 
 O usuário poderá solicitar um Táxi, Uber, iniciar um trajeto no Waze ou chamar uma ambulância.
@@ -45,16 +40,13 @@ Ao digitar sua senha no totem, o processo de coleta de dados será iniciado.
 
 O totem deverá coletar informações de saúde do paciente e adiantar as informações essenciais para a triagem e classificação no protocolo de Manchester.
 
-
-
-Utilizações
+## Utilizações
 
 Pronto Socorro
 Agendamento de Consultas
 Internações
 
-
-Passo-a-Passo
+## Passo-a-Passo
 
 Usuário abre o aplicativo;
 Seleciona o tipo de emergência: Pediatria, Ortopedia ou Clínico Geral;
@@ -67,8 +59,7 @@ Ao chegar no Hospital, o beacon/geofence é acionado, e o paciente é direcionad
 No totem serão coletadas informações de Pressão Arterial, Temperatura, Peso, Batimentos Cardíacos, etc.. através do nosso dispositivo;
 O paciente, que já está devidamente cadastrado, aguarda uma reavaliação de triagem ou é direcionado diretamente para atendimento médico.
 
-
-Monetização
+## Monetização
 
 O aplicativo para inicio do atendimento, envio de documentos e visualização da fila é gratuito;
 
@@ -76,25 +67,21 @@ O totem para triagem será licenciado através de comodato por um custo fixo men
 
 Custo zero para o paciente.
 
-
-
-Benchmark
+## Benchmark
 
 Prefeitura de Barueri
 Oculys
 Hospital Nossa Senhora das Graças
 Quickmed
 
-Mais Informações
+## Mais Informações
 
 Através do software, a equipe de triagem pode avaliar a situação do paciente antes da chegada no pronto socorro e classificá-lo através do protocolo de Manchester:
 
+O questionário pode ser construído pelo próprio hospital a acompanhado por um profissional de saúde;
 
 
-O questionário será construído pelo próprio hospital;
-
-
-Planejamento Estratégico
+## Planejamento Estratégico
 
 Utilização de Inteligência Cognitiva para otimização e efetividade do questionário;
 Plug-in do dispositivo para integração com Totems já existentes;
