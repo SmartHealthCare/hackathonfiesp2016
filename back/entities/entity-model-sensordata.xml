@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:entity-package xmlns:ns2="br.com.inpaas.model.entity" xmlns:ns3="br.com.inpaas.entitymanager">
+    <entities>
+        <entity alias="SENSORDATA" audit-delete="true" audit-insert="true" audit-update="true" core="false" name="SENSORDATA">
+            <attributes>
+                <attribute alias="id" audit="true" name="ID_SENSORDATA" primary-key="XPK_SENSORDATA" required="true" type="BIGINT"/>
+                <attribute alias="raw" audit="true" name="TX_RAW" required="false" size="200" type="VARCHAR"/>
+            </attributes>
+            <entity-queries/>
+        </entity>
+    </entities>
+</ns3:entity-package>

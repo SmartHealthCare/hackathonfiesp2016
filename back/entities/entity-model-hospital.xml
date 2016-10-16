@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:entity-package xmlns:ns2="br.com.inpaas.model.entity" xmlns:ns3="br.com.inpaas.entitymanager">
+    <entities>
+        <entity alias="HOSPITAL" audit-delete="true" audit-insert="true" audit-update="true" core="false" name="HOSPITAL">
+            <attributes>
+                <attribute alias="id" audit="true" name="ID_HOSPITAL" primary-key="XPK_HOSPITAL" required="true" type="BIGINT"/>
+                <attribute alias="name" audit="true" name="ds_hospital" required="false" size="80" type="VARCHAR"/>
+                <attribute alias="end" audit="true" name="ds_endereco" required="false" size="200" type="VARCHAR"/>
+                <attribute alias="time" audit="true" name="ds_time" required="false" size="15" type="VARCHAR"/>
+                <attribute alias="time2" audit="true" name="ds_time2" required="false" size="15" type="VARCHAR"/>
+                <attribute alias="tel" audit="true" name="ds_tel" required="false" size="20" type="VARCHAR"/>
+                <attribute alias="coords.lat" audit="true" name="nr_lat" required="false" scale="8" size="18" type="NUMERIC"/>
+                <attribute alias="coords.long" audit="true" name="nr_long" required="false" scale="8" size="18" type="NUMERIC"/>
+                <attribute alias="coords.url" audit="true" name="ds_mapurl" required="false" size="2000" type="VARCHAR"/>
+            </attributes>
+            <entity-queries/>
+        </entity>
+    </entities>
+</ns3:entity-package>

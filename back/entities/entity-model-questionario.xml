@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:entity-package xmlns:ns2="br.com.inpaas.model.entity" xmlns:ns3="br.com.inpaas.entitymanager">
+    <entities>
+        <entity alias="QUESTIONARIO" audit-delete="true" audit-insert="true" audit-update="true" core="false" name="QUESTIONARIO">
+            <attributes>
+                <attribute alias="id" audit="true" name="ID_QUESTIONARIO" primary-key="XPK_QUESTIONARIO" required="true" type="BIGINT"/>
+                <attribute alias="questao" audit="true" name="DS_QUESTAO" required="false" size="2000" type="VARCHAR"/>
+                <attribute alias="ordem" audit="true" name="NR_ORDEM" required="false" type="INT"/>
+            </attributes>
+            <entity-queries/>
+        </entity>
+    </entities>
+</ns3:entity-package>
