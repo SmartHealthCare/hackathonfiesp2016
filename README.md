@@ -86,5 +86,35 @@ Através do software, a equipe de triagem pode avaliar a situação do paciente 
 - Dispositivos "wearables" que podem monitorar a saúde de um paciente de forma remota;
 
 
+## Quem Somos?
+
+João Paulo Varandas
+Arquiteto de Soluções na Nuvem / Marketing
+https://www.linkedin.com/in/joaovarandas
+jpvarandas@gmail.com
++55 (11) 99889-2321
+
+Rogério Lima
+Diretoria de Arte e Aplicações Mobile
+https://www.linkedin.com/in/tropicalcyborg
+
+
+Guilherme Ribeiro
+Especialista em IOT
+guilherme@inovacaoimobiliaria.com.br
+https://www.linkedin.com/in/gribeiro
++55 (11) 99912-7222
+
+Alison Pedro
+Desenvolvedor Senior
+https://www.linkedin.com/in/alisonpedro
+
+Dabbie Olivieri
+Design e Identidade Visual
+
+
+
+
+
 
 
