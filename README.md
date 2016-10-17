@@ -79,6 +79,10 @@ Através do software, a equipe de triagem pode avaliar a situação do paciente 
 > O questionário pode ser construído pelo próprio hospital a acompanhado por um profissional de saúde;
 
 
+## Identidade Visual
+
+https://www.behance.net/gallery/44000151/App-SHealth-Smart-Health
+
 ## Planejamento Estratégico
 
 - Utilização de Inteligência Cognitiva para otimização e efetividade do questionário;
