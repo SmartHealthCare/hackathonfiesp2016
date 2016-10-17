@@ -88,28 +88,28 @@ Através do software, a equipe de triagem pode avaliar a situação do paciente 
 
 ## Quem Somos?
 
-João Paulo Varandas
+*João Paulo Varandas*
 Arquiteto de Soluções na Nuvem / Marketing
 https://www.linkedin.com/in/joaovarandas
 jpvarandas@gmail.com
 +55 (11) 99889-2321
 
-Rogério Lima
+*Rogério Lima*
 Diretoria de Arte e Aplicações Mobile
 https://www.linkedin.com/in/tropicalcyborg
 
 
-Guilherme Ribeiro
+*Guilherme Ribeiro*
 Especialista em IOT
 guilherme@inovacaoimobiliaria.com.br
 https://www.linkedin.com/in/gribeiro
 +55 (11) 99912-7222
 
-Alison Pedro
+*Alison Pedro*
 Desenvolvedor Senior
 https://www.linkedin.com/in/alisonpedro
 
-Dabbie Olivieri
+*Dabbie Olivieri*
 Design e Identidade Visual
 
 
